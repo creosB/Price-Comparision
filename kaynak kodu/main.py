@@ -11,12 +11,16 @@ from tkinter import *
 import tkinter as tk
 import webbrowser
 import tkinter.font as tkFont
+import csv
 
 def migros():
     il = giris.get()
     yazi6.config(text="Migros metin belgesine yazdırıldı.")
-    m = ["https://www.migros.com.tr/cubuk-tursusu-kg-p-121ec19",
-         "https://www.migros.com.tr/pringles-original-sade-70-g-p-4da8c2"]
+    m = []
+    with open('migroslink.txt') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=',')
+        m = [i for column in spamreader for i in column]
+
     a = il + ".txt"
     f = open(a,"w+")
     yazi.config(text="Dosya adı: %s" % il)
@@ -72,8 +76,11 @@ def migros():
     f.close()
 def carrefoursa():
     il = giris.get()
-    c = ["https://www.carrefoursa.com/kestane-file-500-g-p-30009042",
-         "https://www.carrefoursa.com/aptamil-4-cocuk-devam-sutu-1200-g-1-yas--p-30247341"]
+    c = []
+    with open('carrefoursalink.txt') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=',')
+        c = [i for column in spamreader for i in column]
+
     yazi2.config(text="Carrefoursa metin belgesine yazdırıldı.")
     a = il + ".txt"
     f = open(a, "w+")
@@ -129,8 +136,11 @@ def carrefoursa():
     f.close()
 def sokmarket():
     il = giris.get()
-    s = ["https://www.sokmarket.com.tr/slim-soft-dis-fircasi-11-p-26169",
-         "https://www.sokmarket.com.tr/sakal-tras-makinesi-ss-4075-p-30169/"]
+    s = []
+    with open('soklink.txt') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=',')
+        s = [i for column in spamreader for i in column]
+
     yazi4.config(text="Şok Market metin belgesine yazdırıldı.")
     a = il + ".txt"
     f = open(a, "w+")
