@@ -9,9 +9,11 @@ Program tamamen bana aittir ve sadece eğitim amaçlıdır.Herhangi bir marka il
 <p class="has-line-data" data-line-start="7" data-line-end="8">İçerisinde:</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="8" data-line-end="9">3 farklı siteden fiyat bilgisi alabilir.</li>
+<li class="has-line-data" data-line-start="8" data-line-end="9">3 farklı siteden fiyat bilgisi alabilir.</li>  
 <li class="has-line-data" data-line-start="9" data-line-end="10">Aldığı fiyat bilgilerini hem konsola hem de metin belgesine yazdırır.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">Yazdırdığı metin belgesinden karşılaştırma yaparak fiyat değişikliğini görebilirsiniz.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="12">Link yazan text dosyalarındaki linkler ile fiyat bilgisini elde eder.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="12">Main.exe ile başlatabilirsiniz.</li>
 </ul>
 <h2 class="code-line" data-line-start=18 data-line-end=20 ><a id="License_18"></a>License</h2>
 <p class="has-line-data" data-line-start="21" data-line-end="22">Creative Commons Zero v1.0 Universal</p>
