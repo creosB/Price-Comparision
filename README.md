@@ -9,6 +9,12 @@ Program tamamen bana aittir ve sadece eğitim amaçlıdır.Herhangi bir marka il
 <p class="has-line-data" data-line-start="7" data-line-end="8">İçerisinde:</p>
 </blockquote>
 <ul>
+<hr>
+<h1 class="code-line" data-line-start=12 data-line-end=13 ><a id="Resimler_12"></a>Resimler</h1>
+<p class="has-line-data" data-line-start="13" data-line-end="15"><img src="https://raw.githubusercontent.com/creosB/Price-Comparision/main/resim1.png" alt="N|Solid"><br>
+<img src="https://raw.githubusercontent.com/creosB/Price-Comparision/main/resim2.png" alt="N|Solid"><br>
+<img src="https://raw.githubusercontent.com/creosB/Price-Comparision/main/resim3.png" alt="N|Solid"></p>
+<hr>  
 <li class="has-line-data" data-line-start="8" data-line-end="9">3 farklı siteden fiyat bilgisi alabilir.</li>  
 <li class="has-line-data" data-line-start="9" data-line-end="10">Aldığı fiyat bilgilerini hem konsola hem de metin belgesine yazdırır.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">Yazdırdığı metin belgesinden karşılaştırma yaparak fiyat değişikliğini görebilirsiniz.</li>
