@@ -8,6 +8,7 @@ The program belongs entirely to me and is for educational purposes only. There i
 <p class="has-line-data" data-line-start="5" data-line-end="6">Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.<br>
 Please contact me first to share or make changes anywhere.</p>
 </blockquote>
+<a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <blockquote>
 <p class="has-line-data" data-line-start="7" data-line-end="8">İçerisinde:<br>
 It contains:</p>
