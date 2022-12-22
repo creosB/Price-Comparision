@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="C_Dili_0"></a>Price-Comparision</h1>
-<p class="has-line-data" data-line-start="2" data-line-end="5"><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a><br>
+<p class="has-line-data" data-line-start="2" data-line-end="5"><a href="http://www.artistscompany.net"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a><br>
 Python ile kodlanmış fiyat karşılaştırma uygulaması.<br>
 Program tamamen bana aittir ve sadece eğitim amaçlıdır.Herhangi bir marka ile anlaşma veya zarar verecek unsur bulunmamaktadır.<br>
 Price comparison application coded in Python.
